@@ -1,4 +1,4 @@
-ÖĞÎÄ°æÓÉÎ¢²©£¨@ÔÂÁèÔÆi£©ÔÚÁ½¸öÔÂºÚ·ç¸ßµÄÍíÉÏÍê³É·­ÒëºÍÍêÉÆ£¬²¢Ê×ÏÈ·¢²¼ÔÚ±¾³õUX£¨http://benchu.org£©¡£
+ä¸­æ–‡ç‰ˆç”±å¾®åšï¼ˆ@æœˆå‡Œäº‘iï¼‰åœ¨ä¸¤ä¸ªæœˆé»‘é£é«˜çš„æ™šä¸Šå®Œæˆç¿»è¯‘å’Œå®Œå–„ï¼Œå¹¶é¦–å…ˆå‘å¸ƒåœ¨æœ¬åˆUXï¼ˆhttp://benchu.org/barebones/ï¼‰ã€‚
 # Barebones
 
 An initial directory setup, style guide and pattern primer. Intended as a starting point for my own projects, available for others to fork and adapt for theirs.
