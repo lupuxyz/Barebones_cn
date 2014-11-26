@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en-gb">
+﻿<!DOCTYPE html><html lang="en-gb">
 
 <head>
 	<title>Barebones 中文版 - 一枚初始化的目录设置，样式向导和模式入门。</title>
@@ -19,8 +19,8 @@
 	<main role="main">
 		<div class="container">
 			<p>刚开始建立Barebones，只是为了我自己的项目。现在，你可以免费地Fork，或者按你的需求进行改编。</p>
-			<p><a class="button" href="https://github.com/paulrobertlloyd/barebones/archive/master.zip" download="barebones">下载 Barebones 英文版</a> 或&#160;<a href="https://github.com/paulrobertlloyd/barebones">在Github上浏览项目</a>.<p>
-            <p><a class="button" href="http://benchu.org/barebones/barebones_cn.zip" download="barebones_cn">下载 Barebones 中文版</a><p>
+			<p><a class="button" href="https://github.com/paulrobertlloyd/barebones/archive/master.zip" download="barebones">下载 Barebones 英文版</a> 或&#160;<a href="https://github.com/paulrobertlloyd/barebones"  target="_blank">在Github上浏览项目</a>.<p>
+            <p><a class="button" href="http://benchu.org/barebones/barebones_cn.zip" download="barebones_cn">下载 Barebones 中文版</a> 或&#160;<a href="https://github.com/lupuxyz/Barebones_cn" target="_blank">在Github上浏览项目</a>.<p>
 			<h2>内容</h2>
 			<dl>
 				<dt><a href="_styleguide.php">样式向导</a></dt>
