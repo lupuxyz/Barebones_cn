@@ -1,0 +1,1 @@
+details module  详情模块，一般用于FAQ常见问题等。
