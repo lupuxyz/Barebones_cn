@@ -1,4 +1,4 @@
-中文版由微博（@月凌云i）在两个月黑风高的晚上完成翻译和完善，并首先发布在本初UX（http://benchu.org/barebones/）。
+中文版由微博（@月凌云i）在两个月黑风高的晚上完成翻译和完善，并首先发布在本初UX，中文版详见：http://benchu.org/barebones/
 # Barebones
 
 An initial directory setup, style guide and pattern primer. Intended as a starting point for my own projects, available for others to fork and adapt for theirs.
