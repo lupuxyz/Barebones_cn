@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en-gb">
+﻿<!DOCTYPE html><html lang="en-gb">
 
 <head>
 	<title>表单示例 - Barebones 中文版</title>
@@ -13,7 +13,7 @@
 		<div class="container">
 			<header>
 				<nav role="navigation" class="breadcrumb-nav">
-					<a href="/">Barebones</a> /
+					<a href="index.php">Barebones</a> /
 				</nav><!--/.breadcrumb-nav-->
 				<h1>表单示例</h1>
 				<p class="lede">基础的表单样式</p>

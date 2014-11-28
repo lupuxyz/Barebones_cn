@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en-gb">
+﻿<!DOCTYPE html><html lang="en-gb">
 
 <head>
 	<title>样式向导 - Barebones 中文版</title>
@@ -14,7 +14,7 @@
 		<div class="container">
 			<header>
 				<nav role="navigation" class="breadcrumb-nav">
-					<a href="../">Barebones</a> /
+					<a href="index.php">Barebones</a> /
 				</nav><!--/.breadcrumb-nav-->
 				<h1>样式向导</h1>
 				<p class="lede">基础的标签和排版样式</p>

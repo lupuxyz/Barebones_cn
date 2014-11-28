@@ -57,7 +57,7 @@
 		<div class="container">
 			<header>
 				<nav role="navigation" class="breadcrumb-nav">
-					<a href="../">Barebones</a> /
+					<a href="index.php">Barebones</a> /
 				</nav><!--/.breadcrumb-nav-->
 				<h1>模式入门</h1>
 				<p class="lede">常用的标签片段</p>
